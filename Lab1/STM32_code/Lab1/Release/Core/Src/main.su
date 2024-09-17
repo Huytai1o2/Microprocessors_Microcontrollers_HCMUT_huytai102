@@ -1,0 +1,8 @@
+lab1.h:13:6:exercise1	8	static
+lab1.h:20:6:exercise2	8	static
+lab1.h:35:6:exercise3	8	static
+lab1.h:71:6:display7SEG	16	static
+lab1.h:116:6:exercise4	8	static
+main.c:114:6:SystemClock_Config	72	static,ignoring_inline_asm
+main.c:66:5:main	32	static
+main.c:200:6:Error_Handler	0	static,ignoring_inline_asm

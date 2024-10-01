@@ -1,0 +1,17 @@
+functions.h:29:6:display7seg	24	static
+functions.h:73:6:clearLED	8	static
+functions.h:79:6:clearEnableVsLED	8	static
+functions.h:85:6:update7SEG	40	static
+functions.h:94:6:updateClockBuffer	24	static
+functions.h:101:6:clockDigit	24	static
+functions.h:127:6:dis7seg	24	static
+functions.h:142:6:setRow	16	static
+functions.h:154:6:setColumn	16	static
+functions.h:166:6:shiftLeft	24	static
+functions.h:177:6:updateLEDMatrix	16	static
+main.c:67:5:main	56	static
+main.c:213:6:SystemClock_Config	72	static
+main.c:249:13:MX_TIM2_Init	32	static
+main.c:294:13:MX_GPIO_Init	32	static
+main.c:473:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:486:6:Error_Handler	4	static,ignoring_inline_asm

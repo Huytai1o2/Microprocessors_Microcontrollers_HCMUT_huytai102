@@ -1,0 +1,5 @@
+timer.c:18:6:setTimer1	16	static
+timer.c:24:6:setTimer_increasing_num	16	static
+timer.c:30:6:setTimer_blinkly	16	static
+timer.c:36:6:setTimer_change_digit	16	static
+timer.c:42:6:timerRun	4	static

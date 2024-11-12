@@ -1,0 +1,2 @@
+traffic_light.c:16:6:reset_state	8	static
+traffic_light.c:24:6:fsm_traffic_light	8	static

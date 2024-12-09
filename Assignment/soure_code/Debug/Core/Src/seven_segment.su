@@ -1,0 +1,4 @@
+seven_segment.c:13:6:display_num	16	static
+seven_segment.c:122:6:display_4_digit	16	static
+seven_segment.c:170:6:updateDigitBuffer	24	static
+seven_segment.c:241:6:fsm_change_digit	4	static

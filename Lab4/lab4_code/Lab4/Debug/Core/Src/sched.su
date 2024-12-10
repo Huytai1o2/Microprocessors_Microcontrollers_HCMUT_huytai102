@@ -1,0 +1,7 @@
+sched.c:17:6:clear_sched	16	static
+sched.c:30:6:SCH_Init	8	static
+sched.c:40:15:SCH_Add_Task	32	static
+sched.c:109:6:SCH_Dispatch_Tasks	16	static
+sched.c:139:6:SCH_Delete_Task	24	static
+sched.c:177:6:SCH_Update	8	static
+sched.c:196:6:deep_copy	16	static
